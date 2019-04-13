@@ -3,7 +3,7 @@
 			"courseId": 1,
 			"name": "JavaScript",
 			"description": "javascript",
-			"type": "programming",
+			"type": "Programming",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction to JS",
@@ -143,7 +143,7 @@
 			"courseId": 2,
 			"name": "Node JS",
 			"description": "node js",
-			"type": "programming",
+			"type": "Programming",
 			"topics": [{
 					"topicId": 1,
 					"name": "introduction",
@@ -183,7 +183,7 @@
 			"courseId": 3,
 			"name": "Java",
 			"description": "Java is very good programming lang..",
-			"type": "programming",
+			"type": "Programming",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",
@@ -342,6 +342,46 @@
 					"topicId": 15,
 					"name": "Encapsulation",
 					"videoId": "Z1Yd7upQsXY",
+					"videoURL": "",
+					"editor": {
+						"id": 1,
+						"code": "console.log('hi')"
+					},
+					"projectUrl": "http://www.github.com"
+				}
+			]
+		},
+		    {
+			"courseId": 4,
+			"name": "HTML",
+			"description": "node js",
+			"type": "UI",
+			"topics": [{
+					"topicId": 1,
+					"name": "introduction",
+					"videoId": "Z1Yd7upQsXY",
+					"videoURL": "",
+					"editor": {
+						"id": 1,
+						"code": "console.log('hi')"
+					},
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "basics",
+					"videoId": "TkvQPNdGAKc",
+					"videoURL": "",
+					"editor": {
+						"id": 1,
+						"code": "console.log('hi')"
+					},
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "advanced nodejs",
+					"videoId": "evU3TzbraQM",
 					"videoURL": "",
 					"editor": {
 						"id": 1,

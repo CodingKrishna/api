@@ -3,6 +3,7 @@
 			"courseId": 1,
 			"name": "JavaScript",
 			"description": "javascript",
+			"type": "programming",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction to JS",
@@ -142,6 +143,7 @@
 			"courseId": 2,
 			"name": "Node JS",
 			"description": "node js",
+			"type": "programming",
 			"topics": [{
 					"topicId": 1,
 					"name": "introduction",
@@ -181,6 +183,7 @@
 			"courseId": 3,
 			"name": "Java",
 			"description": "Java is very good programming lang..",
+			"type": "programming",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",

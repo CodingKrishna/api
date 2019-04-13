@@ -7,8 +7,8 @@
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction to JS",
-					"videoId": "N0lxfilGfak",
-					"videoURL": "https://www.youtube.com/watch?v=_8A5UMH_rqU",
+					"videoId": "ppPZziYJMhc",
+					"videoURL": "https://www.youtube.com/watch?v=ppPZziYJMhc",
 					"editor": {
 						"id": 1,
 						"code": "console.log('hi')"
@@ -18,7 +18,7 @@
 				{
 					"topicId": 2,
 					"name": "Variables",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "wstRxWwqc38",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -29,7 +29,7 @@
 				{
 					"topicId": 3,
 					"name": "Datatypes",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "1JaC83eSr8w",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -40,7 +40,7 @@
 				{
 					"topicId": 4,
 					"name": "Operators",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "_8A5UMH_rqU",
 					"videoURL": "",
 					"editor": {
 						"id": 1,

@@ -7,7 +7,7 @@
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction to JS",
-					"videoId": "ppPZziYJMhc",
+					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "https://www.youtube.com/watch?v=ppPZziYJMhc",
 					"editor": {
 						"id": 1,
@@ -18,7 +18,7 @@
 				{
 					"topicId": 2,
 					"name": "Variables",
-					"videoId": "wstRxWwqc38",
+					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -29,7 +29,7 @@
 				{
 					"topicId": 3,
 					"name": "Datatypes",
-					"videoId": "1JaC83eSr8w",
+					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -40,7 +40,7 @@
 				{
 					"topicId": 4,
 					"name": "Operators",
-					"videoId": "_8A5UMH_rqU",
+					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -51,7 +51,7 @@
 				{
 					"topicId": 5,
 					"name": "Statements",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -62,7 +62,7 @@
 				{
 					"topicId": 6,
 					"name": "Loops",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -73,7 +73,7 @@
 				{
 					"topicId": 7,
 					"name": "Functions",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -84,7 +84,7 @@
 				{
 					"topicId": 8,
 					"name": "Arrays",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "U4z-DKIfe8I",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -95,7 +95,7 @@
 				{
 					"topicId": 9,
 					"name": "Objects",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "1nuhemrfnjw",
 					"videoURL": "",
 					"editor": {
 						"id": 1,
@@ -128,7 +128,7 @@
 				{
 					"topicId": 12,
 					"name": "DOM",
-					"videoId": "Z1Yd7upQsXY",
+					"videoId": "TGEaMf0etTg",
 					"videoURL": "",
 					"editor": {
 						"id": 1,

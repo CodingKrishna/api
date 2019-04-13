@@ -1,2 +1,3 @@
 # api
-static apis
+this repository contains the static api for educations purpose.
+

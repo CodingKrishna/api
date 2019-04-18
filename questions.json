@@ -2,7 +2,7 @@
     {
       "questionId": 1,
       "question": "Inventor of java?",
-      "anslist":["Nayan.c", "Ärmesh", "Denish Richie", "Kiran.DY"]
+      "anslist":["Nayan.c", "Ärmesh", "Denish Richie", "Kiran.DY"],
       "answer": "Denish Richie",
       "language": "java",
       "languageId": 1,
@@ -13,7 +13,7 @@
     {
       "questionId": 2,
       "question": "how is java?",
-      "anslist":["Easy", "Difficult", "moderate", "nonoe"]
+      "anslist":["Easy", "Difficult", "moderate", "nonoe"],
       "answer": "Easy",
       "language": "java",
       "languageId": 1,

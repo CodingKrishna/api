@@ -11,7 +11,7 @@
 					"videoURL": "",
 					"editor": {
 						"id": 1,
-						"code": "console.log('hi')"
+						"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}"
 					},
 					"projectUrl": "http://www.github.com"
 				},
@@ -22,7 +22,7 @@
 					"videoURL": "",
 					"editor": {
 						"id": 1,
-						"code": "console.log('hi')"
+						"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}"
 					},
 					"projectUrl": "http://www.github.com"
 				},

@@ -9,21 +9,15 @@
 					"name": "About IDE and Eclipse",
 					"videoId": "ppPZziYJMhc",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 2,
 					"name": "Constructor",
 					"videoId": "1JaC83eSr8w",
-					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}"
-					},
+					"videoURL": "",	
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -31,10 +25,7 @@
 					"name": "MethodOverloading",
 					"videoId": "_8A5UMH_rqU",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -42,10 +33,7 @@
 					"name": "Overriding",
 					"videoId": "n8gbpl1CkZ0",
 					"videoURL": "https://www.youtube.com/watch?v=_8A5UMH_rqU",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -53,10 +41,7 @@
 					"name": "Static Methods",
 					"videoId": "wstRxWwqc38",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -64,10 +49,7 @@
 					"name": "Data Type Casting",
 					"videoId": "TYp_BBP--TA",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -75,10 +57,7 @@
 					"name": "ObjectCasting",
 					"videoId": "DM-TxFOi214",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -86,10 +65,7 @@
 					"name": "Retur Class/Interface",
 					"videoId": "0f8PQeJ6UEk",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -97,10 +73,7 @@
 					"name": "Return Multiple Objects",
 					"videoId": "MYuhfNHb9mE",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -108,10 +81,7 @@
 					"name": "Pass By Values",
 					"videoId": "5DWssH0v9Iw",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -119,10 +89,7 @@
 					"name": "Array Of Objects",
 					"videoId": "kT2kAqyvHkY",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
 			]
@@ -137,10 +104,7 @@
 					"name": "Array",
 					"videoId": "U4z-DKIfe8I",
 					"videoURL": "https://www.youtube.com/watch?v=U4z-DKIfe8I",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -148,10 +112,7 @@
 					"name": "Array Methods",
 					"videoId": "0mlhZ6yAtVo",
 					"videoURL": "https://www.youtube.com/watch?v=0mlhZ6yAtVo",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -159,10 +120,7 @@
 					"name": "Function",
 					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "https://www.youtube.com/watch?v=ZcY_eP2B8VI",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -170,10 +128,7 @@
 					"name": "Objects",
 					"videoId": "1nuhemrfnjw",
 					"videoURL": "https://www.youtube.com/watch?v=1nuhemrfnjw",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -181,10 +136,7 @@
 					"name": "DOM Elements access ",
 					"videoId": "TGEaMf0etTg",
 					"videoURL": "https://www.youtube.com/watch?v=TGEaMf0etTg",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -192,10 +144,7 @@
 					"name": "Change CSS using DOM",
 					"videoId": "ll3mjjrS2lI",
 					"videoURL": "https://www.youtube.com/watch?v=ll3mjjrS2lI",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				}
 			]
@@ -210,10 +159,7 @@
 					"name": "JDBC Connection",
 					"videoId": "j6EFUBs2wvY",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -221,10 +167,7 @@
 					"name": "PrepareStatement",
 					"videoId": "ri28FRFEMJQ",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -232,10 +175,7 @@
 					"name": "CURD Operations",
 					"videoId": "EqqPgRSCKnY",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
 			]
@@ -250,10 +190,7 @@
 					"name": "Form Handling",
 					"videoId": "aUVZ8YKEbws",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -261,10 +198,7 @@
 					"name": "Get/Post",
 					"videoId": "RzKi82Fv8uc",
 					"videoURL": "",
-					"editor": {
-						"id": 1,
-						"code": "console.log('hi')"
-					},
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
 			]

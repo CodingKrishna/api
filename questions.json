@@ -20,6 +20,39 @@
       "topicName": "introduction",
       "topicId":1,
       "complexity": "low"
+    },
+    {
+      "questionId": 3,
+      "question": "Which of the following encapsulates an SQL statement which is passed to the database to be parsed, compiled, planned and executed?",
+      "anslist":["DriverManager", "JDBC driver", "Connection", "Statement"],
+      "answer": "Statement",
+      "language": "java",
+      "languageId": 3,
+      "topicName": "JDBC Connection",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 4,
+      "question": "Which method is used to perform DML statements in JDBC?",
+      "anslist":["execute()", "executeQuery()", "executeUpdate()", "executeResult()"],
+      "answer": "executeUpdate()",
+      "language": "java",
+      "languageId": 3,
+      "topicName": "JDBC Connection",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 5,
+      "question": "Which of the following methods are needed for loading a database driver in JDBC?",
+      "anslist":["registerDriver() method", "Class.forName()", "Both A and B", "getConnection()"],
+      "answer": "Both A and B",
+      "language": "java",
+      "languageId": 3,
+      "topicName": "JDBC Connection",
+      "topicId":1,
+      "complexity": "low"
     }
   ]
 }

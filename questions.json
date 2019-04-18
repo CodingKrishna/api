@@ -1,19 +1,25 @@
 {"questions":[
     {
       "questionId": 1,
-      "question": "Which planet in our solar system is closest to the sun?",
-      "answer": "Mercury",
-      "catagory": {"type":"java", "topic":"introduction"},
+      "question": "Inventor of java?",
+      "anslist":["Nayan.c", "Ärmesh", "Denish Richie", "Kiran.DY"]
+      "answer": "Denish Richie",
+      "language": "java",
+      "languageId": 1,
+      "topicName": "introduction",
+      "topicId":1,
       "complexity": "low"
     },
     {
       "questionId": 2,
-      "question":
-        "Which actor played Richard III in the 1995 British film drama of the same title?",
-      "choices": ["Ian McKellen", "Partrick Stewart", "Elijah Wood"],
-      "answer": "Ian McKellen",
-      "catagory": {"type":"java", "topic":"introduction"},
-      "complexity": "high"
+      "question": "how is java?",
+      "anslist":["Easy", "Difficult", "moderate", "nonoe"]
+      "answer": "Easy",
+      "language": "java",
+      "languageId": 1,
+      "topicName": "introduction",
+      "topicId":1,
+      "complexity": "low"
     }
   ]
 }

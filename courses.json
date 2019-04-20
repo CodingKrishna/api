@@ -101,6 +101,14 @@
 			"type": "Programming",
 			"topics": [{
 					"topicId": 1,
+					"name": "Function",
+					"videoId": "ZcY_eP2B8VI",
+					"videoURL": "https://www.youtube.com/watch?v=ZcY_eP2B8VI",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
 					"name": "Array",
 					"videoId": "U4z-DKIfe8I",
 					"videoURL": "https://www.youtube.com/watch?v=U4z-DKIfe8I",
@@ -108,21 +116,14 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 2,
+					"topicId": 3,
 					"name": "Array Methods",
 					"videoId": "0mlhZ6yAtVo",
 					"videoURL": "https://www.youtube.com/watch?v=0mlhZ6yAtVo",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
-				{
-					"topicId": 3,
-					"name": "Function",
-					"videoId": "ZcY_eP2B8VI",
-					"videoURL": "https://www.youtube.com/watch?v=ZcY_eP2B8VI",
-					"code": "console.log('hi')",
-					"projectUrl": "http://www.github.com"
-				},
+				
 				{
 					"topicId": 4,
 					"name": "Objects",

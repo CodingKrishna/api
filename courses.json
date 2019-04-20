@@ -91,14 +91,6 @@
 					"videoURL": "",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
-				},
-				{
-					"topicId": 12,
-					"name": "Concurrency vs Parallelism",
-					"videoId": "FChZP09Ba4E",
-					"videoURL": "",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
 				}
 			]
 		},

@@ -202,6 +202,141 @@
 					"projectUrl": "http://www.github.com"
 				}
 			]
+		},
+		    {
+			"courseId": 5,
+			"name": "Data Structures",
+			"description": "Data Structures",
+			"type": "System Design",
+			"topics": [{
+					"topicId": 1,
+					"name": "DS Introduction",
+					"videoId": "92S4zgXN17o",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "List as ADT",
+					"videoId": "HdFG8L1sajw",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "LinkedList",
+					"videoId": "NobHlGUjV3g",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "Arrays vs LinkedLists",
+					"videoId": "lC-yYCOnN8Q",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 5,
+					"name": "Doubly Linked List",
+					"videoId": "JdQeNxWCguQ",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 6,
+					"name": "Stack",
+					"videoId": "F1F2imiOJfk",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 7,
+					"name": "Array impl of stack",
+					"videoId": "sFVxsglODoo",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 8,
+					"name": "LinkedList impl of stack",
+					"videoId": "MuwxQ2IB8lQ",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 9,
+					"name": "Queues",
+					"videoId": "XuCbpw6Bj1U",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 10,
+					"name": "Array impl of Queue",
+					"videoId": "okr-XE8yTO8",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 11,
+					"name": "LinkedList impl of Queue",
+					"videoId": "A5_XdiK4J8A",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 12,
+					"name": "Trees",
+					"videoId": "qH6yxkw0u78",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 13,
+					"name": "Binary Tree",
+					"videoId": "H5JubkIy_p8",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 14,
+					"name": "Binary Search Tree",
+					"videoId": "pYT9F8_LFTM",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 15,
+					"name": "Graphs",
+					"videoId": "gXgEDyodOJU",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 16,
+					"name": "Properties of Graphs",
+					"videoId": "AfYqN3fGapc",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
 		}
 
 	]

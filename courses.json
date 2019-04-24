@@ -98,7 +98,7 @@
 			"courseId": 2,
 			"name": "JavaScript",
 			"description": "javascript",
-			"type": "Programming",
+			"type": "UI",
 			"topics": [{
 					"topicId": 1,
 					"name": "Function",

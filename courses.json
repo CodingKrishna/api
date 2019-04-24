@@ -350,6 +350,46 @@
 					"videoURL": "",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 9,
+					"name": "SQL",
+					"videoId": "k5WZ9MJTA_Y",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 10,
+					"name": "Joins",
+					"videoId": "KasQpgDpFbE",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 11,
+					"name": "Joins with examples",
+					"videoId": "epUjLxMLbJQ",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 12,
+					"name": "PL/SQL",
+					"videoId": "bLrL9wbuQvs",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 13,
+					"name": "PL/SQL Example",
+					"videoId": "DIwk_-8ORjE",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
 				}
 			]
 		}

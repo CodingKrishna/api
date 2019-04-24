@@ -360,7 +360,31 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 10,
+					"topicId":10,
+					"name": "DDL commands",
+					"videoId": "pAB-z0knPpk",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}, 
+				{
+					"topicId": 11,
+					"name": "DDL commands 2",
+					"videoId": "WbT2qv2bmjw",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}, 
+				{
+					"topicId": 12,
+					"name": "DML commands",
+					"videoId": "WvOseanUdk4",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}, 
+				{
+					"topicId": 13,
 					"name": "Joins",
 					"videoId": "KasQpgDpFbE",
 					"videoURL": "",
@@ -368,7 +392,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 11,
+					"topicId": 14,
 					"name": "Joins with examples",
 					"videoId": "epUjLxMLbJQ",
 					"videoURL": "",
@@ -376,7 +400,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 12,
+					"topicId": 15,
 					"name": "PL/SQL",
 					"videoId": "bLrL9wbuQvs",
 					"videoURL": "",
@@ -384,7 +408,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 13,
+					"topicId": 16,
 					"name": "PL/SQL Example",
 					"videoId": "DIwk_-8ORjE",
 					"videoURL": "",

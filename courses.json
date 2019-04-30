@@ -455,9 +455,46 @@
 					"projectUrl": "http://www.github.com"
 				}
 			]
+		},
+		{
+			"courseId": 9,
+			"name": "Functional Java",
+			"description": "Functional Java",
+			"type": "Programming",
+			"topics": [{
+					"topicId": 1,
+					"name": "Lambda Functions",
+					"videoId": "hhKbT9NndWE",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "Functional Interfaces",
+					"videoId": "lX0PzE0Dho0",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "Streams API",
+					"videoId": "N3gQdIn90CI",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "AOT vs JIT",
+					"videoId": "sJVenujWGjs",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
 		}
-
-
-
+		    
 	]
 }

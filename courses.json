@@ -91,6 +91,38 @@
 					"videoURL": "",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 12,
+					"name": "IO stream",
+					"videoId": "mq-f7zPZ7b8",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 13,
+					"name": "IO BufferedReader",
+					"videoId": "JjXLddWuGvk",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 14,
+					"name": "IO Scanner",
+					"videoId": "KouEeCHqdRc",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 15,
+					"name": "Io Console",
+					"videoId": "1RUFBL3Wx18",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
 				}
 			]
 		},
@@ -155,8 +187,65 @@
 			"name": "JDBC",
 			"description": "Java databse connectavity",
 			"type": "Frameworks",
-			"topics": [{
+			"topics": [
+				{
 					"topicId": 1,
+					"name": "What is JDBC?",
+					"videoId": "Oa6amJSMW3g",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "Two and Three Tier Architecture",
+					"videoId": "QnKLbtLUso0",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "TYPE 1 DRIVER",
+					"videoId": "hUA-4oJU7rw",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "TYPE 2 DRIVER",
+					"videoId": "TvQwXz4MLQM",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 5,
+					"name": "TYPE 3 DRIVER",
+					"videoId": "PE_xmmvJSII",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 6,
+					"name": "TYPE 4 DRIVER",
+					"videoId": "xDyPt8yI8hs",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 7,
+					"name": "SQL Query processing system",
+					"videoId": "HMv2PpEns-I",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 8,
 					"name": "JDBC Connection",
 					"videoId": "j6EFUBs2wvY",
 					"videoURL": "",
@@ -164,7 +253,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 2,
+					"topicId": 9,
 					"name": "PrepareStatement",
 					"videoId": "ri28FRFEMJQ",
 					"videoURL": "",
@@ -172,7 +261,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 3,
+					"topicId": 10,
 					"name": "CURD Operations",
 					"videoId": "EqqPgRSCKnY",
 					"videoURL": "",

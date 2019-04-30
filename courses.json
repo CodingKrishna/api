@@ -796,6 +796,45 @@
 					"projectUrl": "http://www.github.com"
 				}
 			]
+		},
+		{
+			"courseId": 13,
+			"name": "Maven",
+			"description": "Maven",
+			"type": "Tools",
+			"topics": [{
+					"topicId": 1,
+					"name": "Introduction",
+					"videoId": "8_5ubZO5i9A",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "Installation and Setup",
+					"videoId": "E_0EQ516BFs",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "Archetypes",
+					"videoId": "j3z30ohxg4E",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "Understanding pom",
+					"videoId": "1cz8VPc-1Vw",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
 		}
 		    
 	]

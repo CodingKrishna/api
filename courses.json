@@ -494,6 +494,45 @@
 					"projectUrl": "http://www.github.com"
 				}
 			]
+		},
+		{
+			"courseId": 10,
+			"name": "Microservices",
+			"description": "Microservices",
+			"type": "System Design",
+			"topics": [{
+					"topicId": 1,
+					"name": "Circuit Breaker Pattern",
+					"videoId": "ADHcBxEXvFA",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "Bulkhead Pattern",
+					"videoId": "R2FT5edyKOg",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "API Gateway",
+					"videoId": "vHQqQBYJtLI",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "Service Mesh",
+					"videoId": "QiXK0B9FhO0",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
 		}
 		    
 	]

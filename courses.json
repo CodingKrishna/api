@@ -416,6 +416,45 @@
 					"projectUrl": "http://www.github.com"
 				}
 			]
+		},
+		{
+			"courseId": 8,
+			"name": "Java Multithreading",
+			"description": "Multithreading",
+			"type": "Programming",
+			"topics": [{
+					"topicId": 1,
+					"name": "Concurrency vs Parallelism",
+					"videoId": "FChZP09Ba4E",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "Java Memory Model",
+					"videoId": "Z4hMFBvCDV4",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "Race Condition",
+					"videoId": "KGnXr62bgHM",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "Semaphore",
+					"videoId": "shH38znT_sQ",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
 		}
 
 

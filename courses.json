@@ -275,8 +275,41 @@
 			"name": "Servlets",
 			"description": "Servlets",
 			"type": "Frameworks",
-			"topics": [{
+			"topics": [
+				{
 					"topicId": 1,
+					"name": "What Is MVC",
+					"videoId": "pCvZtjoRq1I",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "What Is HTTP",
+					"videoId": "RUd8Q8E4mXs",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "HTTP in depth",
+					"videoId": "JFZMyhRTVt0",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "HTTP Headers",
+					"videoId": "vAuZwirKjWs",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 5,
 					"name": "Form Handling",
 					"videoId": "aUVZ8YKEbws",
 					"videoURL": "",
@@ -284,7 +317,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 2,
+					"topicId": 6,
 					"name": "Get/Post",
 					"videoId": "RzKi82Fv8uc",
 					"videoURL": "",
@@ -329,7 +362,15 @@
 					"videoURL": "",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
-				}
+				},
+				{
+					"topicId": 5,
+					"name": "CSS overview",
+					"videoId": "yfoY53QXEnI",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
 			]
 		},
 		{
@@ -882,7 +923,22 @@
 					"projectUrl": "http://www.github.com"
 				}
 			]
-		}
+		},
+		{
+			"courseId": 15,
+			"name": "HTML",
+			"description": "HTML",
+			"type": "UI",
+			"topics": [{
+					"topicId": 1,
+					"name": "Intro to HTML",
+					"videoId": "UB1O30fR-EE",
+					"videoURL": "",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
+		},
 		    
 	]
 }

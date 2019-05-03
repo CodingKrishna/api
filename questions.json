@@ -53,6 +53,39 @@
       "topicName": "JDBC Connection",
       "topicId":1,
       "complexity": "low"
+    },
+    {
+      "questionId": 6,
+      "question": "Can servlet class declare constructor with ServletConfig object as an argument?",
+      "anslist":["True", "False"],
+      "answer": "B",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 7,
+      "question": "Which of the following code is used to get an attribute in a HTTP Session object in servlets?",
+      "anslist":["session.getAttributeData(String name)", "session.alterAttribute(String name)","session.setAttribute(String name)","session.getAttribute(String name)"],
+      "answer": "D",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 8,
+      "question": "How is the dynamic interception of requests and responses to transform the information done?",
+      "anslist":["servlet container", "servlet config","servlet context","servlet filter"],
+      "answer": "D",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
     }
   ]
 }

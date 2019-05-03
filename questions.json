@@ -86,6 +86,17 @@
       "topicName": "What Is HTTP",
       "topicId":1,
       "complexity": "low"
+    },
+     {
+      "questionId": 9,
+      "question": "RequestDispatcher object is used?",
+      "anslist":["to include other resources", "to include an image","to include xml object","to include e-mailing response"],
+      "answer": "to include other resourcesr",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
 	"apps": [{
 		"id": 1,
-		"name": "Employee Portal",
+		"name": "GT",
 		"description": "Employee portail to maintain the emp details ..",
-		"imgUrls": [],
+		"imgUrls": ["gt-log.jpg", "gt-benefits.jpg"],
 		"specifications": ["HR login", "employee Login"]
 	},{
 		"id": 2,
 		"name": "Smart Chit",
 		"description": "Chit fund application ",
-		"imgUrls": [],
+		"imgUrls": ["smart-chit-log.jpg", "smart-chit-benefits.jpg"],
 		"specifications": ["Admin login", "Customer login"]
 	}]
 }

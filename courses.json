@@ -10,7 +10,7 @@
 					"videoId": "ppPZziYJMhc",
 					"videoURL": "",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
+					"projectUrl": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/java/2-datatypes/datatypes_tutorial.md"
 				},
 				{
 					"topicId": 2,

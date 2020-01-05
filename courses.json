@@ -18,7 +18,7 @@
 					"name": "Constructor",
 					"videoId": "1JaC83eSr8w",
 					"videoURL": "",	
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/java/2-datatypes/datatypes_tutorial.md"
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/java/2-datatypes/datatypes_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},

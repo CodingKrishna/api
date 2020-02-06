@@ -53,6 +53,50 @@
       "topicName": "JDBC Connection",
       "topicId":1,
       "complexity": "low"
+    },
+    {
+      "questionId": 6,
+      "question": "Can servlet class declare constructor with ServletConfig object as an argument?",
+      "anslist":["True", "False"],
+      "answer": "False",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 7,
+      "question": "Which of the following code is used to get an attribute in a HTTP Session object in servlets?",
+      "anslist":["session.getAttributeData(String name)", "session.alterAttribute(String name)","session.setAttribute(String name)","session.getAttribute(String name)"],
+      "answer": "session.getAttribute(String name)",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 8,
+      "question": "How is the dynamic interception of requests and responses to transform the information done?",
+      "anslist":["servlet container", "servlet config","servlet context","servlet filter"],
+      "answer": "servlet filter",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+     {
+      "questionId": 9,
+      "question": "RequestDispatcher object is used?",
+      "anslist":["to include other resources", "to include an image","to include xml object","to include e-mailing response"],
+      "answer": "to include other resourcesr",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
     }
   ]
 }

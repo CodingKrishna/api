@@ -9,7 +9,7 @@
 					"name": "About IDE and Eclipse",
 					"videoId": "ppPZziYJMhc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/java/1-introduction/introduction_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/java/1-introduction/introduction_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -18,7 +18,7 @@
 					"name": "Constructor",
 					"videoId": "1JaC83eSr8w",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/java/2-datatypes/datatypes_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/java/2-datatypes/datatypes_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -27,7 +27,7 @@
 					"name": "MethodOverloading",
 					"videoId": "_8A5UMH_rqU",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -37,7 +37,7 @@
 					"videoId": "n8gbpl1CkZ0",
 					"videoURL": "https://www.youtube.com/watch?v=_8A5UMH_rqU",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"projectUrl": "http://www.github.com"
 				},
 				{
@@ -45,7 +45,7 @@
 					"name": "Static Methods",
 					"videoId": "wstRxWwqc38",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -54,7 +54,7 @@
 					"name": "Data Type Casting",
 					"videoId": "TYp_BBP--TA",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -63,7 +63,7 @@
 					"name": "ObjectCasting",
 					"videoId": "DM-TxFOi214",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -72,7 +72,7 @@
 					"name": "Retur Class/Interface",
 					"videoId": "0f8PQeJ6UEk",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -81,7 +81,7 @@
 					"name": "Return Multiple Objects",
 					"videoId": "MYuhfNHb9mE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -90,7 +90,7 @@
 					"name": "Pass By Values",
 					"videoId": "5DWssH0v9Iw",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -99,7 +99,7 @@
 					"name": "Array Of Objects",
 					"videoId": "kT2kAqyvHkY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -108,7 +108,7 @@
 					"name": "IO stream",
 					"videoId": "mq-f7zPZ7b8",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -117,7 +117,7 @@
 					"name": "IO BufferedReader",
 					"videoId": "JjXLddWuGvk",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -126,7 +126,7 @@
 					"name": "IO Scanner",
 					"videoId": "KouEeCHqdRc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -135,7 +135,7 @@
 					"name": "Io Console",
 					"videoId": "1RUFBL3Wx18",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -151,7 +151,7 @@
 					"name": "Function",
 					"videoId": "ZcY_eP2B8VI",
 					"videoURL": "https://www.youtube.com/watch?v=ZcY_eP2B8VI",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
@@ -160,7 +160,7 @@
 					"name": "Array",
 					"videoId": "U4z-DKIfe8I",
 					"videoURL": "https://www.youtube.com/watch?v=U4z-DKIfe8I",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
@@ -169,7 +169,7 @@
 					"name": "Array Methods",
 					"videoId": "0mlhZ6yAtVo",
 					"videoURL": "https://www.youtube.com/watch?v=0mlhZ6yAtVo",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
@@ -179,7 +179,7 @@
 					"name": "Objects",
 					"videoId": "1nuhemrfnjw",
 					"videoURL": "https://www.youtube.com/watch?v=1nuhemrfnjw",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
@@ -188,7 +188,7 @@
 					"name": "DOM Elements access ",
 					"videoId": "TGEaMf0etTg",
 					"videoURL": "https://www.youtube.com/watch?v=TGEaMf0etTg",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
@@ -197,7 +197,7 @@
 					"name": "Change CSS using DOM",
 					"videoId": "ll3mjjrS2lI",
 					"videoURL": "https://www.youtube.com/watch?v=ll3mjjrS2lI",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				}
@@ -214,7 +214,7 @@
 					"name": "What is JDBC?",
 					"videoId": "Oa6amJSMW3g",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -223,7 +223,7 @@
 					"name": "Two and Three Tier Architecture",
 					"videoId": "QnKLbtLUso0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -232,7 +232,7 @@
 					"name": "TYPE 1 DRIVER",
 					"videoId": "hUA-4oJU7rw",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -241,7 +241,7 @@
 					"name": "TYPE 2 DRIVER",
 					"videoId": "TvQwXz4MLQM",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -250,7 +250,7 @@
 					"name": "TYPE 3 DRIVER",
 					"videoId": "PE_xmmvJSII",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -259,7 +259,7 @@
 					"name": "TYPE 4 DRIVER",
 					"videoId": "xDyPt8yI8hs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -268,7 +268,7 @@
 					"name": "SQL Query processing system",
 					"videoId": "HMv2PpEns-I",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -277,7 +277,7 @@
 					"name": "JDBC Connection",
 					"videoId": "j6EFUBs2wvY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -286,7 +286,7 @@
 					"name": "PrepareStatement",
 					"videoId": "ri28FRFEMJQ",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -295,7 +295,7 @@
 					"name": "CURD Operations",
 					"videoId": "EqqPgRSCKnY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -312,7 +312,7 @@
 					"name": "What Is HTTP",
 					"videoId": "RUd8Q8E4mXs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -321,7 +321,7 @@
 					"name": "HTTP in depth",
 					"videoId": "JFZMyhRTVt0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -330,7 +330,7 @@
 					"name": "HTTP Headers",
 					"videoId": "vAuZwirKjWs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -339,7 +339,7 @@
 					"name": "What Is MVC",
 					"videoId": "pCvZtjoRq1I",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -348,7 +348,7 @@
 					"name": "Form Handling",
 					"videoId": "aUVZ8YKEbws",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -357,7 +357,7 @@
 					"name": "Get/Post",
 					"videoId": "RzKi82Fv8uc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -373,7 +373,7 @@
 					"name": "Introducing Divs",
 					"videoId": "kGA9RIFiyIE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -382,7 +382,7 @@
 					"name": "Float",
 					"videoId": "xara4Z1b18I",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -391,7 +391,7 @@
 					"name": "Positioning",
 					"videoId": "ngt-qQKaTpA",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -400,7 +400,7 @@
 					"name": "Layouts",
 					"videoId": "HgwCeNVPlo0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -409,7 +409,7 @@
 					"name": "CSS overview",
 					"videoId": "yfoY53QXEnI",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -425,7 +425,7 @@
 					"name": "Introduction",
 					"videoId": "vBURTt97EkA",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -434,7 +434,7 @@
 					"name": "Basics of OS",
 					"videoId": "VjPgYcQqqN0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -443,7 +443,7 @@
 					"name": "Storage Structure",
 					"videoId": "YcRd3WMbXnE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -452,7 +452,7 @@
 					"name": "I/O Structure",
 					"videoId": "F18RiREDkwE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -468,7 +468,7 @@
 					"name": "Introduction",
 					"videoId": "wjfeGxqAQOY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -477,7 +477,7 @@
 					"name": "Basics of Database",
 					"videoId": "oEJMJuFD204",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -486,7 +486,7 @@
 					"name": "Components of DBMS",
 					"videoId": "tOohitf2CNE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -495,7 +495,7 @@
 					"name": "Building Blocks",
 					"videoId": "1Thk90gJF6U",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -504,7 +504,7 @@
 					"name": "Architecture",
 					"videoId": "CZfmqC9dMJA",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -513,7 +513,7 @@
 					"name": "DBMS STRUCTURE",
 					"videoId": "W5c8fq80PuU",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -522,7 +522,7 @@
 					"name": "Attributes",
 					"videoId": "nW5l5J19GKw",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -531,7 +531,7 @@
 					"name": "Type of Attributes",
 					"videoId": "coHxp23wTyc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -540,7 +540,7 @@
 					"name": "SQL",
 					"videoId": "k5WZ9MJTA_Y",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -549,7 +549,7 @@
 					"name": "DDL commands",
 					"videoId": "pAB-z0knPpk",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -558,7 +558,7 @@
 					"name": "DDL commands 2",
 					"videoId": "WbT2qv2bmjw",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -567,7 +567,7 @@
 					"name": "DML commands",
 					"videoId": "WvOseanUdk4",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -576,7 +576,7 @@
 					"name": "Joins",
 					"videoId": "KasQpgDpFbE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -593,7 +593,7 @@
 					"name": "PL/SQL",
 					"videoId": "bLrL9wbuQvs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -602,7 +602,7 @@
 					"name": "PL/SQL Example",
 					"videoId": "DIwk_-8ORjE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -618,7 +618,7 @@
 					"name": "Concurrency vs Parallelism",
 					"videoId": "FChZP09Ba4E",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -627,7 +627,7 @@
 					"name": "Java Memory Model",
 					"videoId": "Z4hMFBvCDV4",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -636,7 +636,7 @@
 					"name": "Race Condition",
 					"videoId": "KGnXr62bgHM",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -645,7 +645,7 @@
 					"name": "Semaphore",
 					"videoId": "shH38znT_sQ",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -661,7 +661,7 @@
 					"name": "Lambda Functions",
 					"videoId": "hhKbT9NndWE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -670,7 +670,7 @@
 					"name": "Functional Interfaces",
 					"videoId": "lX0PzE0Dho0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -679,7 +679,7 @@
 					"name": "Streams API",
 					"videoId": "N3gQdIn90CI",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -688,7 +688,7 @@
 					"name": "AOT vs JIT",
 					"videoId": "sJVenujWGjs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -704,7 +704,7 @@
 					"name": "Circuit Breaker Pattern",
 					"videoId": "ADHcBxEXvFA",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -713,7 +713,7 @@
 					"name": "Bulkhead Pattern",
 					"videoId": "R2FT5edyKOg",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -722,7 +722,7 @@
 					"name": "API Gateway",
 					"videoId": "vHQqQBYJtLI",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -731,7 +731,7 @@
 					"name": "Service Mesh",
 					"videoId": "QiXK0B9FhO0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -747,7 +747,7 @@
 					"name": "Introduction",
 					"videoId": "wi-MGFhrad0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -756,7 +756,7 @@
 					"name": "Architecture",
 					"videoId": "0e-KiGJIiDc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -765,7 +765,7 @@
 					"name": "Advantages of DOCKER",
 					"videoId": "YCrRy7pBzdc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -774,7 +774,7 @@
 					"name": "Play With Docker",
 					"videoId": "zW9Nt27NrWc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -783,7 +783,7 @@
 					"name": "Instalation on windows",
 					"videoId": "ymlWt1MqURY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -792,7 +792,7 @@
 					"name": "Instalation on Linux",
 					"videoId": "KCckWweNSrM",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -801,7 +801,7 @@
 					"name": "Instalation on Mac",
 					"videoId": "MU8HUVlJTEY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -810,7 +810,7 @@
 					"name": "Basic Commands",
 					"videoId": "HqBMEmoAd1M",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -819,7 +819,7 @@
 					"name": "Docker Images",
 					"videoId": "QBOcKdh-fwQ",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -828,7 +828,7 @@
 					"name": "Docker Containers",
 					"videoId": "Rv3DAJbDrS0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -837,7 +837,7 @@
 					"name": "Dockerfile",
 					"videoId": "LQjaJINkQXY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -846,7 +846,7 @@
 					"name": "Docker Compose",
 					"videoId": "HUpIoF_conA",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -862,7 +862,7 @@
 					"name": "Introduction To Spring MVC",
 					"videoId": "iCQspqBpOB0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -871,7 +871,7 @@
 					"name": "Spring MVC Architecture",
 					"videoId": "lX0PzE0Dho0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -880,7 +880,7 @@
 					"name": "Installation",
 					"videoId": "4eJeT4vWASg",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -889,7 +889,7 @@
 					"name": "Integrating Tomcat",
 					"videoId": "6LO40oH5abg",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -898,7 +898,7 @@
 					"name": "Creating first MVC Web App 1",
 					"videoId": "bnB4x-oAd_M",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -907,7 +907,7 @@
 					"name": "Creating first MVC Web App 2",
 					"videoId": "qXIESogSi_Q",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -916,7 +916,7 @@
 					"name": "controller",
 					"videoId": "HokftiwyUuU",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -925,7 +925,7 @@
 					"name": "RequestMapping",
 					"videoId": "myzMVndhBTk",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -941,7 +941,7 @@
 					"name": "Introduction",
 					"videoId": "8_5ubZO5i9A",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -950,7 +950,7 @@
 					"name": "Installation and Setup",
 					"videoId": "E_0EQ516BFs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -959,7 +959,7 @@
 					"name": "Archetypes",
 					"videoId": "j3z30ohxg4E",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -968,7 +968,7 @@
 					"name": "Understanding pom",
 					"videoId": "1cz8VPc-1Vw",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -984,7 +984,7 @@
 					"name": "Architectural patterns",
 					"videoId": "lTkL1oIMiaU",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -993,7 +993,7 @@
 					"name": "APIs | REST | REST APIs",
 					"videoId": "FOZtRzY5x8E",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1002,7 +1002,7 @@
 					"name": "Web Services",
 					"videoId": "oaM27ETgxic",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1011,7 +1011,7 @@
 					"name": "URIs, URLs, and URNs",
 					"videoId": "vpYct2npKD8",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1020,7 +1020,7 @@
 					"name": "Intro to REST",
 					"videoId": "YCcAE2SCQ6k",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -1036,7 +1036,7 @@
 					"name": "Intro to HTML",
 					"videoId": "UB1O30fR-EE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -1052,7 +1052,7 @@
 					"name": "Introduction",
 					"videoId": "0eWrpsCLMJQ",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1061,7 +1061,7 @@
 					"name": "Getting Start",
 					"videoId": "FVPGJHinItI",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1070,7 +1070,7 @@
 					"name": "Hello World App",
 					"videoId": "mDoHtD1hI3I",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1079,7 +1079,7 @@
 					"name": "Components",
 					"videoId": "16rQyEQtpyQ",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1088,7 +1088,7 @@
 					"name": "Interpolation",
 					"videoId": "2a6OfacW_-I",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1097,7 +1097,7 @@
 					"name": "Property Binding",
 					"videoId": "N8FBmB2jme8",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1106,7 +1106,7 @@
 					"name": "Class Binding",
 					"videoId": "Y6OP-lPJxgs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1115,7 +1115,7 @@
 					"name": "Style Binding",
 					"videoId": "q256X6-u9Q8",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1124,7 +1124,7 @@
 					"name": "Event Binding",
 					"videoId": "ZfIc1_oj7uM",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1133,7 +1133,7 @@
 					"name": "Template Reference Variables",
 					"videoId": "Oo0-r_YhoJs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
@@ -1151,7 +1151,7 @@
 					"name": "Introduction",
 					"videoId": "PY-AycMkEAg",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1160,7 +1160,7 @@
 					"name": "Installing Node JS",
 					"videoId": "1US-P13yKVs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1169,7 +1169,7 @@
 					"name": "V8 Engine",
 					"videoId": "86tgU7UaJmU",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1178,7 +1178,7 @@
 					"name": "Global Object",
 					"videoId": "PY-AycMkEAg",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1187,7 +1187,7 @@
 					"name": "Function Expressions",
 					"videoId": "lK42xIMcA0Y",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1196,7 +1196,7 @@
 					"name": "Modules and require()",
 					"videoId": "xHLd36QoS4k",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1205,7 +1205,7 @@
 					"name": "Module Patterns",
 					"videoId": "9UaZtgB5tQI",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1214,7 +1214,7 @@
 					"name": "Event Emitter",
 					"videoId": "NtrnaTKqFPQ",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1223,7 +1223,7 @@
 					"name": "Reading & Writing Files",
 					"videoId": "U57kU311-nE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1232,7 +1232,7 @@
 					"name": "Creating & Removing Directories",
 					"videoId": "Ejgd-la6nSY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1241,7 +1241,7 @@
 					"name": "Clients & Servers",
 					"videoId": "qSAze9b0wrY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1250,7 +1250,7 @@
 					"name": "Creating a Server",
 					"videoId": "lm86czWdrk0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1259,7 +1259,7 @@
 					"name": "Serving HTML Pages",
 					"videoId": "BBOUfdUZIVo",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1268,7 +1268,7 @@
 					"name": "Serving JSON Data",
 					"videoId": "QxjVZFa1XUM",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1277,7 +1277,7 @@
 					"name": "Basic Routing",
 					"videoId": "_zvWeGwVkCY",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1286,7 +1286,7 @@
 					"name": "Installing Nodemon",
 					"videoId": "4N0d8HhU5DE",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1295,7 +1295,7 @@
 					"name": "Introduction to Express",
 					"videoId": "9TSBKO59u0Y",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1304,7 +1304,7 @@
 					"name": "Express Route Params",
 					"videoId": "MuMs1pLuT7I",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1313,7 +1313,7 @@
 					"name": "Template Engines",
 					"videoId": "oZGmHNZv7Sc",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1322,7 +1322,7 @@
 					"name": "Template Engines2",
 					"videoId": "RczQp3zCPXs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1331,7 +1331,7 @@
 					"name": "Partial Templates",
 					"videoId": "CdvSVkF9m_Y",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1340,7 +1340,7 @@
 					"name": "Middleware & Static Files",
 					"videoId": "-lRgL9kj_h0",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1349,7 +1349,7 @@
 					"name": "Query Strings",
 					"videoId": "QTAYRmMsVCI",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1358,7 +1358,7 @@
 					"name": "Handling POST Requests",
 					"videoId": "rin7gb9kdpk",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}

@@ -1151,7 +1151,7 @@
 					"name": "Introduction",
 					"videoId": "PY-AycMkEAg",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/node-js/01-introduction/README.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -1160,7 +1160,7 @@
 					"name": "Installing Node JS",
 					"videoId": "1US-P13yKVs",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/node-js/02-environment-setup/README.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},

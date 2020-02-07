@@ -1533,6 +1533,15 @@
 				},
 				{
 					"topicId": 3,
+					"name": "For of",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/es6/03-for-of/README.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
 					"name": "Default Parameters",
 					"videoId": "",
 					"videoURL": "",
@@ -1541,7 +1550,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 4,
+					"topicId": 5,
 					"name": "Template Strings",
 					"videoId": "",
 					"videoURL": "",
@@ -1550,7 +1559,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 5,
+					"topicId": 6,
 					"name": "Object Literals",
 					"videoId": "",
 					"videoURL": "",
@@ -1559,7 +1568,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 6,
+					"topicId": 7,
 					"name": "Types of functions",
 					"videoId": "",
 					"videoURL": "",

@@ -1712,7 +1712,7 @@
 				{
 					"topicId": 2,
 					"name": "Variables",
-					"videoId": "HdFG8L1sajw",
+					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/02-variables/README.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -1739,7 +1739,7 @@
 				{
 					"topicId": 5,
 					"name": "Loops",
-					"videoId": "JdQeNxWCguQ",
+					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/05-loops/README.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",

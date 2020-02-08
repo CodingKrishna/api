@@ -1762,6 +1762,24 @@
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/07-lists/README.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 8,
+					"name": "Class",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/09-class/README.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 9,
+					"name": "Inheritance",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/10-inheritance/README.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
 				}
 			]
 		}

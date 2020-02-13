@@ -1108,7 +1108,7 @@
 						"name": "How Browsers Work",
 						"videoId": "UB1O30fR-EE",
 						"videoURL": "",
-						"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/html/README.md",
+						"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/html/10-howbrowserswork/README.md",
 						"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 						"projectUrl": "http://www.github.com"
 					}

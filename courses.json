@@ -157,56 +157,172 @@
 			"type": "UI",
 			"topics": [{
 					"topicId": 1,
-					"name": "Function",
-					"videoId": "ZcY_eP2B8VI",
-					"videoURL": "https://www.youtube.com/watch?v=ZcY_eP2B8VI",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"name": "Introduction",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/01-introduction/README.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 2,
-					"name": "Array",
-					"videoId": "U4z-DKIfe8I",
-					"videoURL": "https://www.youtube.com/watch?v=U4z-DKIfe8I",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"name": "Include JS in HTML",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/16-js-includs/README.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 3,
-					"name": "Array Methods",
-					"videoId": "0mlhZ6yAtVo",
-					"videoURL": "https://www.youtube.com/watch?v=0mlhZ6yAtVo",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"name": "Variables",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/02-variables/README.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
-
 				{
 					"topicId": 4,
-					"name": "Objects",
-					"videoId": "1nuhemrfnjw",
-					"videoURL": "https://www.youtube.com/watch?v=1nuhemrfnjw",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"name": "Operators",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/04-operators/README.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 5,
-					"name": "DOM Elements access ",
-					"videoId": "TGEaMf0etTg",
-					"videoURL": "https://www.youtube.com/watch?v=TGEaMf0etTg",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"name": "Statements",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/05-statements/README.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 6,
-					"name": "Change CSS using DOM",
+					"name": "Loops",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/06-loops/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 7,
+					"name": "Functions",
+					"videoId": "ZcY_eP2B8VI",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/07-functions/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 8,
+					"name": "Arrays",
+					"videoId": "U4z-DKIfe8I",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/08-arrays/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 9,
+					"name": "Objects",
+					"videoId": "1nuhemrfnjw",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/09-objects/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 10,
+					"name": "Strings",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/10-strings/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 11,
+					"name": "Dates",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/11-dates/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 12,
+					"name": "Basic Programs",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/22-basic-programs/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 13,
+					"name": "Functions types",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/20-functions-types/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 14,
+					"name": "Events",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/17-events/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 15,
+					"name": "DOM",
+					"videoId": "TGEaMf0etTg",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/12-DOM/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 16,
+					"name": "Form Validations",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/18-validations/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 17,
+					"name": "DOM-CSS",
 					"videoId": "ll3mjjrS2lI",
-					"videoURL": "https://www.youtube.com/watch?v=ll3mjjrS2lI",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/19-DOM-CSS/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 18,
+					"name": "Regular Expressions",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/13-regular-expressions/README.md",
+					"code": "console.log('hi')",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 19,
+					"name": "Exercises",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/js/14-exercises/README.md",
 					"code": "console.log('hi')",
 					"projectUrl": "http://www.github.com"
 				},

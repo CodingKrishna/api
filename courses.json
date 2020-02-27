@@ -1889,6 +1889,15 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
+					"topicId": 6,
+					"name": "Basic Programs",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/06-basic-programs/README.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
 					"topicId": 7,
 					"name": "List",
 					"videoId": "",

@@ -1972,34 +1972,43 @@
 					"name": "Statements",
 					"videoId": "",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/string.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/statements.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 2,
-					"name": "String",
+					"name": "Loops",
 					"videoId": "",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/02-variables/README.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/loops.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 3,
-					"name": "Loops",
+					"name": "Strings",
 					"videoId": "",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/03-operators/README.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/strings.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 4,
+					"name": "Functions",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/functions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 5,
 					"name": "Arrays",
 					"videoId": "",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/python/04-statements/README.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/arrays.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}

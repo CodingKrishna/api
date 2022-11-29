@@ -920,7 +920,7 @@
 			"courseId": 11,
 			"name": "Docker",
 			"description": "Docker",
-			"type": "System Design",
+			"type": "Tools",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",
@@ -1962,7 +1962,7 @@
 				}
 			]
 		},
-		    {
+		{
 			"courseId": 21,
 			"name": "SDLC",
 			"description": "SDLC",
@@ -2014,7 +2014,7 @@
 				}
 			]
 		},
-		     {
+		{
 			"courseId": 22,
 			"name": "Git",
 			"description": "Git",
@@ -2032,6 +2032,40 @@
 					"topicId": 2,
 					"name": "Git",
 					"videoId": "AzfVDEBn9hw",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
+		},
+		{
+			"courseId": 23,
+			"name": "CI/CD",
+			"description": "CI/CD",
+			"type": "Tools",
+			"topics": [{
+					"topicId": 1,
+					"name": "CI/CD",
+					"videoId": "h9K1NnqwUvE",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "ELK kibana",
+					"videoId": "gQ1c1uILyKI",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "Spinnaker",
+					"videoId": "R0cloa6yi5E",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",

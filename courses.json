@@ -1962,6 +1962,58 @@
 				}
 			]
 		},
+		    {
+			"courseId": 21,
+			"name": "SDLC",
+			"description": "SDLC",
+			"type": "Tools",
+			"topics": [{
+					"topicId": 1,
+					"name": "Introduction",
+					"videoId": "8_5ubZO5i9A",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "Waterfall Method",
+					"videoId": "E_0EQ516BFs",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "Agile Method",
+					"videoId": "j3z30ohxg4E",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "JIRA",
+					"videoId": "1cz8VPc-1Vw",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 5,
+					"name": "Confluence",
+					"videoId": "1cz8VPc-1Vw",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
+		},
 		{
 			"courseId": 100,
 			"name": "Programs",

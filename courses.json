@@ -1155,8 +1155,8 @@
 		},
 		{
 			"courseId": 14,
-			"name": "Web Services",
-			"description": "Web services ",
+			"name": "Web Architecture",
+			"description": "Web Architecture ",
 			"type": "System Design",
 			"topics": [{
 					"topicId": 1,

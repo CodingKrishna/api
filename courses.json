@@ -2004,7 +2004,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 4,
+					"topicId": 5,
 					"name": "Design Wiki",
 					"videoId": "ynkZp3nSBWg",
 					"videoURL": "",
@@ -2075,7 +2075,7 @@
 		},
 		{
 			"courseId": 24,
-			"name": "kubernetes",
+			"name": "Kubernetes",
 			"description": "kubernetes",
 			"type": "Tools",
 			"topics": [{
@@ -2109,6 +2109,58 @@
 					"topicId": 4,
 					"name": "Kubernetes Vs Docker",
 					"videoId": "tuyq3H4EXL0",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
+		},
+		{
+			"courseId": 24,
+			"name": "Debugging",
+			"description": "debugging",
+			"type": "Tools",
+			"topics": [{
+					"topicId": 1,
+					"name": "Postman",
+					"videoId": "CLG0ha_a0q8",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "Java Debugging",
+					"videoId": "lAWnIP1S6UA",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "Node Debugging",
+					"videoId": "o-L1OCmWPDA",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "Spring Debugging",
+					"videoId": "83lsDP-FoyM",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 5,
+					"name": "Chrome DevTools debugging",
+					"videoId": "ilZnwY-gYcI",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",

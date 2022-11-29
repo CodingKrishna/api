@@ -2284,6 +2284,15 @@
 				},
 				{
 					"topicId": 6,
+					"name": "Logical",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/logical.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 7,
 					"name": "Matrix",
 					"videoId": "",
 					"videoURL": "",
@@ -2292,7 +2301,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 7,
+					"topicId": 8,
 					"name": "Data Structures",
 					"videoId": "",
 					"videoURL": "",

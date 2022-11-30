@@ -2127,7 +2127,7 @@
 			"courseId": 22,
 			"name": "Git",
 			"description": "Git",
-			"type": "Tools",
+			"type": "IDX",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",
@@ -2152,7 +2152,7 @@
 			"courseId": 23,
 			"name": "CI/CD",
 			"description": "CI/CD",
-			"type": "Tools",
+			"type": "IDX",
 			"topics": [{
 					"topicId": 1,
 					"name": "CI/CD",
@@ -2229,7 +2229,7 @@
 			"courseId": 25,
 			"name": "Debugging",
 			"description": "debugging",
-			"type": "Tools",
+			"type": "IDX",
 			"topics": [{
 					"topicId": 1,
 					"name": "Postman",

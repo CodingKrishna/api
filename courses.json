@@ -2030,7 +2030,7 @@
 			"courseId": 21,
 			"name": "SDLC",
 			"description": "SDLC",
-			"type": "Tools",
+			"type": "IDX",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",

@@ -2123,6 +2123,15 @@
 				},
 				{
 					"topicId": 11,
+					"name": "IntelliJ IDEA",
+					"videoId": "H_XxH66lm3U",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 12,
 					"name": "Setup SpringBoot App",
 					"videoId": "kQ6Zkb6s6mM",
 					"videoURL": "",
@@ -2131,7 +2140,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 12,
+					"topicId": 13,
 					"name": "Code walkthrough",
 					"videoId": "MZztQARdle4",
 					"videoURL": "",

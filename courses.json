@@ -2296,7 +2296,7 @@
 				},
 				{
 					"topicId": 5,
-					"name": "AWS s3",
+					"name": "AWS S3",
 					"videoId": "XGcoeEyt2UM",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
@@ -2313,7 +2313,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 6,
+					"topicId": 7,
 					"name": "AWS Aurora",
 					"videoId": "wfvNPkjPlKc",
 					"videoURL": "",

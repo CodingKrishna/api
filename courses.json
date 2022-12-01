@@ -2278,6 +2278,15 @@
 				},
 				{
 					"topicId": 3,
+					"name": "AWS Services",
+					"videoId": "r4YIdn2eTm4",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
 					"name": "AWS EC2",
 					"videoId": "8TlukLu11Yo",
 					"videoURL": "",
@@ -2286,9 +2295,18 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 4,
+					"topicId": 5,
 					"name": "AWS s3",
 					"videoId": "XGcoeEyt2UM",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 6,
+					"name": "AWS ELB",
+					"videoId": "YO4L_9poF3g",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",

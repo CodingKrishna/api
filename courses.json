@@ -2254,6 +2254,40 @@
 		},
 		{
 			"courseId": 25,
+			"name": "AWS",
+			"description": "Aws ",
+			"type": "IDX",
+			"topics": [{
+					"topicId": 1,
+					"name": "Introduction",
+					"videoId": "r4YIdn2eTm4",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "AWS EC2",
+					"videoId": "8TlukLu11Yo",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "AWS s3",
+					"videoId": "XGcoeEyt2UM",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
+		},
+		{
+			"courseId": 26,
 			"name": "Debugging",
 			"description": "debugging",
 			"type": "IDX",

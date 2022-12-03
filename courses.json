@@ -2409,19 +2409,19 @@
 				},
 				{
 					"topicId": 3,
-					"name": "Strings",
+					"name": "Functions",
 					"videoId": "",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/strings.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/functions.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
 				{
 					"topicId": 4,
-					"name": "Functions",
+					"name": "Strings",
 					"videoId": "",
 					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/functions.md",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/strings.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2458,6 +2458,42 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/ds.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 9,
+					"name": "Sorting",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/sorting.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 10,
+					"name": "Searching",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/searching.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 11,
+					"name": "Interview Set1",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/interview_set1.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 12,
+					"name": "Interview Set2",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/interview_set2.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}

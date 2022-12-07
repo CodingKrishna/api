@@ -11,27 +11,42 @@
     },
     {
       "taskId": 3,
-      "name": "Download sample https://github.com/CodingKrishna/basic-java-programs and import into Intellij, run and execute each program.",
+      "name": "Download https://github.com/CodingKrishna/basic-java-programs and import into Intellij, run and execute each program.",
       "catagory": {"type":"java", "topic":"intrduction"}
     },
     {
       "taskId": 4,
-      "name": "Go through programs tab in and execute all the basic programs on statements, loops and string.",
+      "name": "Go through programs tab and execute all the basic programs on statements, loops and string.",
       "catagory": {"type":"java", "topic":"intrduction"}
     },
     {
       "taskId": 5,
-      "name": "Go through programs tab in and execute all the basic programs on arrays.",
+      "name": "Go through programs tab and execute all the basic programs on arrays.",
       "catagory": {"type":"java", "topic":"intrduction"}
     },
     {
       "taskId": 6,
-      "name": "Go through programs tab in and execute all the basic programs on data structure.",
+      "name": "Go through programs tab and execute all the basic programs on data structure.",
       "catagory": {"type":"java", "topic":"intrduction"}
     },
     {
       "taskId": 7,
-      "name": "Go through programs tab in and execute all the basic programs on sorting and searching.",
+      "name": "Go through programs tab and execute all the basic programs on sorting and searching.",
+      "catagory": {"type":"java", "topic":"intrduction"}
+    },
+    {
+      "taskId": 8,
+      "name": "Setup https://github.com/CodingKrishna/hello-world-spring-boot.git spring boot helloworld app and code walkthrough.",
+      "catagory": {"type":"java", "topic":"intrduction"}
+    },
+    {
+      "taskId": 9,
+      "name": "Setup https://github.com/CodingKrishna/SpringBoot-Angular7-Online-Shopping-Store.git shopping cart app and code walkthrough.",
+      "catagory": {"type":"java", "topic":"intrduction"}
+    },
+    {
+      "taskId": 10,
+      "name": "Setup https://github.com/pioneercoders/angular2-math-calculator-app.git angular math calculator app and code walkthrough.",
       "catagory": {"type":"java", "topic":"intrduction"}
     }
   ]

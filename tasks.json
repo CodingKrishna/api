@@ -1,13 +1,17 @@
 {"tasks":[
     {
       "taskId": 1,
-      "name": "Which planet in our solar system is closest to the sun?",
+      "name": "Go thorugh SDLC process Videos and create sample stories in JIRA and design wikis confluence.",
       "catagory": {"type":"java", "topic":"intrduction"}
     },
     {
       "taskId": 2,
-      "name":
-        "Which actor played Richard III in the 1995 British film drama of the same title?",
+      "name": "Go thorugh intellij IDE setup and create sample java project.",
+      "catagory": {"type":"java", "topic":"intrduction"}
+    },
+    {
+      "taskId": 3,
+      "name": "Download sample https://github.com/CodingKrishna/basic-java-programs and import into Intellij, run and execute each program.",
       "catagory": {"type":"java", "topic":"intrduction"}
     }
   ]

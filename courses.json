@@ -2465,6 +2465,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/statements.md",
+				 	"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/statements.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2474,6 +2475,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/loops.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/loops.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},

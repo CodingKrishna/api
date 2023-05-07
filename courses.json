@@ -2485,6 +2485,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/functions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/functions.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2494,6 +2495,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/strings.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/strings.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2503,6 +2505,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/arrays.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/arrays.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2512,6 +2515,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/logical.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/logical.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2521,6 +2525,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/matrix.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/matrix.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2530,6 +2535,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/ds.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/ds.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2539,6 +2545,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/sorting.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/sorting.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2548,6 +2555,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/searching.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/searching.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2557,6 +2565,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/interview_set1.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/interview_set1.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2566,6 +2575,7 @@
 					"videoId": "",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/interview_set2.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/interview_set2.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}

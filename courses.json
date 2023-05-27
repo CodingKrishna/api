@@ -2521,6 +2521,16 @@
 				},
 				{
 					"topicId": 7,
+					"name": "Advanced Functions",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/advanced_functions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/advanced_functions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 8,
 					"name": "Matrix",
 					"videoId": "",
 					"videoURL": "",
@@ -2530,7 +2540,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 8,
+					"topicId": 9,
 					"name": "Data Structures",
 					"videoId": "",
 					"videoURL": "",
@@ -2540,7 +2550,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 9,
+					"topicId": 10,
 					"name": "Sorting",
 					"videoId": "",
 					"videoURL": "",
@@ -2550,7 +2560,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 10,
+					"topicId": 11,
 					"name": "Searching",
 					"videoId": "",
 					"videoURL": "",
@@ -2560,7 +2570,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 11,
+					"topicId": 12,
 					"name": "Interview Set1",
 					"videoId": "",
 					"videoURL": "",
@@ -2570,7 +2580,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 12,
+					"topicId": 13,
 					"name": "Interview Set2",
 					"videoId": "",
 					"videoURL": "",

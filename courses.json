@@ -2466,6 +2466,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/statements.md",
 				 	"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/statements.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/statements.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2476,6 +2477,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/loops.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/loops.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/loops.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2486,6 +2488,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/functions.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/functions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/functions.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2496,6 +2499,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/strings.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/strings.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/strings.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2506,6 +2510,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/arrays.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/arrays.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/arrays.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2516,6 +2521,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/logical.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/logical.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/logical.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2526,6 +2532,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/advanced_functions.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/advanced_functions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/advanced_functions.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2536,6 +2543,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/matrix.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/matrix.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/matrix.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2546,6 +2554,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/ds.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/ds.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/ds.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2556,6 +2565,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/sorting.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/sorting.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/sorting.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2566,6 +2576,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/searching.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/searching.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/searching.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2576,6 +2587,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/interview_set1.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/interview_set1.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/interview_set1.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
@@ -2586,6 +2598,7 @@
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/interview_set2.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/interview_set2.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/interview_set2.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
